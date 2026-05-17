@@ -28,5 +28,9 @@ sudo pacman -Syu --noconfirm python openssh
 ```bash
 pkg update && pkg install -y python openssh
 ```
-#How to Use?
+# How to Use?
 Clone or Download the script:
+```bash
+git clone https://github.com/usercode-admin/Severmini.git
+cd Severmini
+python3 severmini.py
