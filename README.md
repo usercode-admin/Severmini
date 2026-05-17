@@ -34,3 +34,9 @@ Clone or Download the script:
 git clone https://github.com/usercode-admin/Severmini.git
 cd Severmini
 python3 severmini.py
+```
+# IMG
+<p align="center">
+  <img src="orca-image--1091644240.jpeg.jpeg" alt= "Interface" width="600">
+</p>
+
